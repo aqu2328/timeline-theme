@@ -1,0 +1,46 @@
+
+/* NAVY BLUE AND WHITE TIMELINE */
+
+.tl-timeline,
+.tl-slider-container-mask,
+.tl-slide,
+.tl-text {
+    background-color: #0B1F3A !important;
+    color: #FFFFFF !important;
+}
+
+.tl-headline,
+h2.tl-headline,
+.tl-headline-date,
+.tl-text-content,
+.tl-text-content p,
+.tl-credit,
+.tl-caption,
+.tl-slidenav-title,
+.tl-slidenav-description {
+    color: #FFFFFF !important;
+}
+
+.tl-timenav,
+.tl-timeaxis-background {
+    background-color: #071629 !important;
+}
+
+.tl-timemarker-content-container {
+    background-color: #17365D !important;
+}
+
+.tl-timemarker-content-container,
+.tl-timemarker-content-container * {
+    color: #FFFFFF !important;
+}
+
+.tl-timemarker.tl-timemarker-active
+.tl-timemarker-content-container {
+    background-color: #D4AF37 !important;
+}
+
+.tl-timemarker.tl-timemarker-active
+.tl-timemarker-content-container * {
+    color: #071629 !important;
+}
